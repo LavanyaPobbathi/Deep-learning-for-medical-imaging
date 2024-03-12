@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on the application of deep learning techniques to accurately classify medical images as either chest or abdominal X-rays. Utilizing a dataset of 75 de-identified images sourced from Open-i, we demonstrate the process of building and training a convolutional neural network model for this binary classification task. The project leverages the MD.ai platform for image annotation and the mdai Python client library for data preparation.
 
+![Example Image](/images/1_kBXB9JfzdHSmNLQZjt1JXw.jpg)
+
 ## Features
 - Utilization of MD.ai for DICOM image display and annotation.
 - Preparation of image datasets for training, validation, and testing.
