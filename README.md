@@ -1,4 +1,4 @@
-# Chest vs. Abdominal X-ray Classification
+# Deep Learning of Chest vs. Abdominal X-ray Classification
 
 **Overview**
 
