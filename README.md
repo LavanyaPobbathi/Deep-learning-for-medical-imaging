@@ -21,11 +21,11 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository to your local machine or Google Colab environment:
 
-git clone https://github.com/ImagingInformatics/machine-learning
+    git clone https://github.com/ImagingInformatics/machine-learning
 
 2. Install the required Python packages:
 
-pip install -q -U mdai tensorflow
+    pip install -q -U mdai tensorflow
 
 3. Navigate to the project's URL on MD.ai and create an account or log in to access the image dataset: [MD.ai annotator project](https://public.md.ai/annotator/project/PVq9raBJ).
 
