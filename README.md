@@ -1,6 +1,7 @@
-**Chest vs. Abdominal X-ray Classification**
+**##Chest vs. Abdominal X-ray Classification**
 
-Overview
+**Overview**
+
 This project focuses on the application of deep learning techniques to accurately classify medical images as either chest or abdominal X-rays. Utilizing a dataset of 75 de-identified images sourced from Open-i, we demonstrate the process of building and training a convolutional neural network model for this binary classification task. The project leverages the MD.ai platform for image annotation and the mdai Python client library for data preparation.
 
 Features
