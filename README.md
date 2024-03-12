@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on the application of deep learning techniques to accurately classify medical images as either chest or abdominal X-rays. Utilizing a dataset of 75 de-identified images sourced from Open-i, we demonstrate the process of building and training a convolutional neural network model for this binary classification task. The project leverages the MD.ai platform for image annotation and the mdai Python client library for data preparation.
 
-![Example Image](/images/1_kBXB9JfzdHSmNLQZjt1JXw.jpg)
+![Deep Learning](/images/1_kBXB9JfzdHSmNLQZjt1JXw.jpg)
 
 ## Features
 - Utilization of MD.ai for DICOM image display and annotation.
@@ -46,6 +46,7 @@ The project uses TensorFlow's Keras API to define and train a convolutional neur
 
 ## Results
 The trained model demonstrates high accuracy in distinguishing between chest and abdominal X-rays. Specific performance metrics (e.g., accuracy, loss) are detailed within the Jupyter notebook.
+![Results](/images/ew.jpg)
 
 ## Contributing to the Project
 We welcome contributions to improve the Chest vs. Abdominal X-ray Classification project. Please follow the standard process for submitting issues or pull requests.
